@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/objects.png</file>
+        <file>icons/data-protection.png</file>
+    </qresource>
+</RCC>
